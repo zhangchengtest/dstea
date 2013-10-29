@@ -1,0 +1,28 @@
+#top {
+	width: 1001px;
+	height: 80px;
+	overflow: hidden;
+	margin: 0px auto;
+	border-bottom: 4px #c81024 solid;
+	background:#000000;
+	
+}
+
+
+#content {
+	width: 1001px;
+	margin: 5px auto 12px auto;
+	background:#ff0000;
+}
+
+
+
+.left_menu {
+	width: 202px;
+	float: left;
+	height:80px;
+	background:#00ff00;
+}
+
+
+

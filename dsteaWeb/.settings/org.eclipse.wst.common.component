@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="DSWhiteTeaWeb">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/config"/>
+        <dependent-module archiveName="commons-lang3-3.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/commons-lang3-3.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tiles-core-2.0.6.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/tiles-core-2.0.6.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-digester-2.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/commons-digester-2.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="asm-3.3.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/asm-3.3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tiles-api-2.0.6.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/tiles-api-2.0.6.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="struts2-tiles-plugin-2.3.15.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/struts2-tiles-plugin-2.3.15.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="struts2-convention-plugin-2.3.15.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/struts2-convention-plugin-2.3.15.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="asm-tree-3.3.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/asm-tree-3.3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-collections-3.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/commons-collections-3.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="xwork-core-2.3.15.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/xwork-core-2.3.15.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-fileupload-1.3.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/commons-fileupload-1.3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="struts2-json-plugin-2.3.15.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/struts2-json-plugin-2.3.15.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tiles-jsp-2.0.6.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/tiles-jsp-2.0.6.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-logging-1.1.3.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/commons-logging-1.1.3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="javassist-3.15.0-GA.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/javassist-3.15.0-GA.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="json-lib-2.3-jdk15.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/json-lib-2.3-jdk15.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-beanutils-1.8.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/commons-beanutils-1.8.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="struts2-core-2.3.15.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/struts2-core-2.3.15.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-io-2.0.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/commons-io-2.0.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="freemarker-2.3.19.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/freemarker-2.3.19.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ognl-3.0.6.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/ognl-3.0.6.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="asm-commons-3.3.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/E:/share-library/asm-commons-3.3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="DSWhiteTeaWeb"/>
+        <property name="java-output-path" value="/DSWhiteTeaWeb/build/classes"/>
+    </wb-module>
+</project-modules>

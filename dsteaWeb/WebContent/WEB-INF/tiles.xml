@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE tiles-definitions PUBLIC "-//Apache Software Foundation //DTD Tiles Configuration 2.0//EN"   "http://tiles.apache.org/dtds/tiles-config_2_0.dtd"> 
+<tiles-definitions>
+	<definition name="main" template="/WEB-INF/layout.jsp">
+	   <put-attribute name="header" value="/jsp/header.jsp" />
+	  	<put-attribute name="content" value="/jsp/content.jsp" />
+	  	<put-attribute name="footer" value="/jsp/footer.jsp" />
+	</definition>
+	<definition name="main1" template="/KFC.jsp">
+		<put-attribute name="top" value="/jsp/header.jsp" />
+		<put-attribute name="left" value="/jsp/left.jsp" />
+		<put-attribute name="content" value="/jsp/content.jsp" />
+	</definition>
+</tiles-definitions>
+
